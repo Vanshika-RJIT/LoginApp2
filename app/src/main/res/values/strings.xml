@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginApp2</string>
+    <string name="mail">Mail</string>
+    <string name="todo">TODO</string>
+    <string name="sign_in">Sign in</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+</resources>
